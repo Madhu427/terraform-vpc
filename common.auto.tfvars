@@ -1,0 +1,1 @@
+AZS = ["us-east1-c", "us-east1-d"]
