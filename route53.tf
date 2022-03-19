@@ -3,4 +3,3 @@ resource "aws_route53_vpc_association_authorization" "private-dns" {
   zone_id = var.PRIVATE_HOSTED_ZONE_ID
 }
 
-#redmark
