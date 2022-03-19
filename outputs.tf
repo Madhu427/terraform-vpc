@@ -31,6 +31,6 @@ output "DEFAULT_VPC_CIDR" {
   value = data.aws_vpc.default.cidr_block
 }
 
-output "PRIVATE_HOST_ZONE_ID" {
+output "PRIVATE_HOSTED_ZONE_ID" {
   value = var.PRIVATE_HOSTED_ZONE_ID
 }
